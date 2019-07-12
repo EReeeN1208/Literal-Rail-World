@@ -1,0 +1,31 @@
+{
+    "name": "Literal Rail World",
+    "version": "0.1.0",
+    "title": "Literal Rail World",
+    "author": "EReeeN120",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.17",
+    "depedencies"
+    [
+           "base"
+           "arumbalights-yet-again"
+           "beautiful_bridge_railway"
+           "cargo-ships"
+           "FARL"
+           "Unlimited-Resources"
+           "long-reach"
+           "LB-Modular-Chests"
+           "RailTypes"
+           "rso-mod"
+           "Squeak%20Through"
+           "traintunnels"
+           "Waterfill_v17"
+           "wood-stack-1k"
+           "z_yira_american"
+           "z_yira_yuokirails"
+           "z_yira_UP"
+           "yi_railway"
+    ]
+    "description": "This mod adds no content. It is a modpack."
+}
